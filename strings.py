@@ -1,1 +1,2 @@
 name = 'kevin'
+print(izzam)
