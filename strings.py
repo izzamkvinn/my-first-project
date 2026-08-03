@@ -1,2 +1,2 @@
 name = 'kevin'
-print(izzam)
+print(name)
